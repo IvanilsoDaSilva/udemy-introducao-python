@@ -33,9 +33,6 @@ This repository was created to store and organize the materials for the Introduc
   
   <!-- softwares -->
    ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=FFFFFF&color=FF00FF)
-
-   <!-- more -->
-  [More...](https://github.com/Ileriayo/markdown-badges)
   
 </div>
 
