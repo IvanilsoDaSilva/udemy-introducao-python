@@ -30,10 +30,10 @@ This repository was created to store and organize the materials for the Introduc
   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=github&logoColor=FFFFFF&color=FF00FF)&nbsp;
   
   <!-- languages -->
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=github&logoColor=FFFFFF&color=FF00FF)
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FFFFFF&color=FF00FF)
   
   <!-- softwares -->
-  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logoColor=FFFFFF&color=FF00FF)&nbsp;
+   ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=FFFFFF&color=FF00FF)
 
    <!-- more -->
   [More...](https://github.com/Ileriayo/markdown-badges)
