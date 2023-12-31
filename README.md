@@ -18,7 +18,7 @@ This is the repository dedicated to the Introduction to Python course I took. He
 
 <h2 align="right">1.2. DESCRIPTION 📝</h2>
 
-Este repositório foi criado para armazenar e organizar os materiais do curso de Introdução a Python, uma jornada de aprendizado que proporcionou uma compreensão abrangente e prática da linguagem de programação Python.
+This repository was created to store and organize the materials for the Introduction to Python course, a learning journey that provided a comprehensive and practical understanding of the Python programming language.
 
 <h2 align="right">1.3. TECHNOLOGIES 💻</h2>
 
@@ -30,7 +30,7 @@ Este repositório foi criado para armazenar e organizar os materiais do curso de
   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=github&logoColor=FFFFFF&color=FF00FF)&nbsp;
   
   <!-- languages -->
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=github&logoColor=FFFFFF&color=FF00FF)
   
   <!-- softwares -->
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logoColor=FFFFFF&color=FF00FF)&nbsp;
