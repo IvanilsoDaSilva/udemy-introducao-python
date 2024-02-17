@@ -24,16 +24,18 @@ This repository was created to store and organize the materials for the Introduc
 
 <div style="display: inline_block">
   
-  <!-- cloud hosting and databases -->
+  <!-- Cloud hosting and databases -->
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=FFFFFF&color=FF00FF)&nbsp; 
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=FFFFFF&color=FF00FF)&nbsp;
   
-  <!-- languages -->
+  <!-- Languages -->
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FFFFFF&color=FF00FF)&nbsp;
   ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=FFFFFF&color=FF00FF)&nbsp;
   
-  <!-- softwares -->
-   ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=FFFFFF&color=FF00FF)
+  <!-- Softwares -->
+  ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=FFFFFF&color=FF00FF)
+
+  <!-- Others -->
   
 </div>
 
