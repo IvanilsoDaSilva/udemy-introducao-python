@@ -31,6 +31,8 @@ This repository was created to store and organize the materials for the Introduc
   <!-- Languages -->
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FFFFFF&color=FF00FF)&nbsp;
   ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=FFFFFF&color=FF00FF)&nbsp;
+
+  <!-- Frameworks -->
   
   <!-- Softwares -->
   ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=FFFFFF&color=FF00FF)
